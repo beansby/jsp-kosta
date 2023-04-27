@@ -41,8 +41,8 @@
     </style>
 </head>
 <body>
-    
-   <form action="" method="post">
+   <center>
+   <form action="makeAccount" method="post">
        <div class="header">
            <h3>계좌개설</h3>
        </div>
@@ -82,7 +82,7 @@
            </div>
        </div>
    </form>
-   
+   </center>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="account.js"></script>
     <script>

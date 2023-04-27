@@ -24,6 +24,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3> 계좌가 개설되었습니다. </h3>
 </body>
 </html>
